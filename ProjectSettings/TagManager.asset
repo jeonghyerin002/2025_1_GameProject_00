@@ -5,9 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - New tag
-  - ground
   - Coin
   - Ground
+  - Door
+  - Missile
   layers:
   - Default
   - TransparentFX
