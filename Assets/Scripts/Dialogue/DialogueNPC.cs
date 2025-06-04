@@ -19,7 +19,7 @@ public class DialogueNPC : MonoBehaviour
         
     }
 
-
+     
     void OnMouseDown()
     {
         if (dialogueManager == null) return;
